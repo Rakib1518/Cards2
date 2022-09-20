@@ -1,0 +1,166 @@
+*{
+    padding:0;
+    margin:0;
+}
+.min-cards{
+    width:1200px;
+    margin:auto;
+    margin-left:150px;
+}
+
+.cards-designe{
+    width:24%;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius:10px;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,212,0.5802696078431373) 100%);
+    text-align: center;
+    justify-content: center;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 10px 1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-block;
+    
+}
+.cards-designe:hover{
+    
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    color:black;
+    box-shadow: 1px 0px 5px 1px black;
+
+}
+
+
+
+
+.cards-design{
+    width:24%;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius:10px;
+    background:greenyellow;
+    text-align: center;
+    justify-content: center;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 10px 1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-block;
+    
+}
+.cards-design:hover{
+    
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color:black;
+    box-shadow: 1px 0px 5px 1px black;
+
+}
+
+.cards-designr{
+    width:24%;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius:10px;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    text-align: center;
+    justify-content: center;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 10px 1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    display:inline-block;
+    
+}
+.cards-designr:hover{
+    
+    background: rgb(8,36,0);
+    background: linear-gradient(90deg, rgba(8,36,0,1) 0%, rgba(35,35,148,1) 35%, rgba(0,212,255,1) 100%);
+    color:black;
+    box-shadow: 1px 0px 5px 1px black;
+
+}
+
+.top-image .image-t{
+    width:100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    box-sizing: border-box;
+    
+}
+
+.image-t{
+    width:20%;
+}
+
+
+.title{
+    margin-top:25px;
+    box-sizing: border-box;
+}
+
+.title .hre{ 
+    width:180px;
+    margin-left:50px;
+    background:white;
+    color:white;
+    border:2px solid #fff;
+}
+
+
+.title h4{
+    color:#2b2a2d;
+    opacity: .6;
+   font-weight: bolder;
+   
+}
+.title .fron{
+    margin-top:5px;
+}
+
+
+.descrp{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding:20px;
+    justify-content: center;
+    text-align: justify;
+    font-size:14px;
+    box-sizing: border-box;
+    
+
+    
+}
+
+
+.buttone{
+    
+    margin-bottom: 40px;
+    background:rgb(246, 195, 195);
+    padding: 20px;
+    padding-bottom:30px;
+    
+}
+
+.buttone:hover{
+    background: #2c3034;
+    color:#fff;
+}
+.buttone .btne{
+    text-decoration: none;
+    color:#2c3034;
+    padding:10px;
+    background:white;
+    border:2px solid rgb(161, 101, 12);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 10px;
+    font-size: large; 
+
+   
+}
+.buttone .btne:hover{
+    background: yellow;
+    color:blueviolet;
+}
